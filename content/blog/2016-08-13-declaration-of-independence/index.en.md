@@ -5,11 +5,8 @@ author: Ethereum Classic
 ---
 
 <b>PDF Version:</b>
- <a href="/ETC_Declaration_of_Independence.pdf">English</a>
- <a href="/ETC_Declaration_of_Independence_chinese.pdf">中文</a>
- <a href="/ETC_Declaration_of_Independence_russian.pdf">русский</a>
- <a href="/ETC_Declaration_of_Independence_vietnamese.pdf">Tiếng Việt</a>
- <a href="/ETC_Declaration_of_Independence_german.pdf">Deutsche</a>
+ <a href="/ETC_Declaration_of_Independence_russian.pdf">русский</a> 
+ <a href="/ETC_Declaration_of_Independence_vietnamese.pdf"> Tiếng Việt</a>
  <a href="/ETC_Declaration_of_Independence_italian.pdf">Italiano</a>
 
 ---
