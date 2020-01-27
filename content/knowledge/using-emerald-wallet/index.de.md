@@ -27,7 +27,7 @@ Hier habest zwei Möglichkeiten, "Remote Node" und "Full Node":
 
 **Full Node**: Wenn Du einen „full node“ synchronisieren möchtest, um maximale Sicherheit zu gewährleisten und das ETC-Netzwerk zu unterstützen, könnst auf „Full Node“ klicken und musst Du ein wenig warten, bis das Netzwerk synchronisiert ist.
 
-- Wenn Du während der Synchronisierung ETC empfängst, wird der Saldo erst angezeigt, wenn Dein Knoten vollständig synchronisiert ist. Mache dir keine Sorgen, die Mittel fehlen nicht. Dein Knoten muss nur mit dem Rest des Netzwerkes Schritt halten
+- Wenn Du während der Synchronisierung ETC empfängst, wird der Saldo erst angezeigt, wenn Dein Knoten vollständig synchronisiert ist. Mach Dir keine Sorgen, die Mittel fehlen nicht. Dein Knoten muss nur mit dem Rest des Netzwerkes Schritt halten
 - Wenn hier Probleme auftreten, solltest Du sicherstellen, dass die Systemuhr ordnungsgemäß synchronisiert ist:
 - Windows: Systemsteuerung > Datum & Uhrzeit > Internetzeit > Einstellungen ändern > Jetzt aktualisieren
 - Linux/Mac: `sudo ntpdate -vu pool.ntp.org`. In einigen Fällen musst Du möglicherweise das Programm ntpdate mit Deinem Paketmanager installieren.
