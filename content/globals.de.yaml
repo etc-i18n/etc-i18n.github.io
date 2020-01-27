@@ -29,13 +29,6 @@ continueReading: Weiterlesen
 discordText: "** ETC-Teilnehmer ** sind am aktivsten bei ** Discord**."
 discordJoin: Trete ETC bei Discord bei
 getInvolved: Mach mit
-newsletterTitle: Newsletter
-newsletterInfo: Melde Dich unten an, um die neuesten Neuigkeiten direkt in Dein Postfach zu
-  erhalten.
-newsletterConfirmation: Vielen Dank, dass Du den ETC-Newsletter abonniert hast!
-newsletterEmail: E-Mail
-newsletterSubmit: Anmelden
-newsletterSubmitting: Einen Augenblick...
 communityTitle: Gruppen
 etcDev: ETCDEV
 iohk: IOHK
@@ -49,4 +42,4 @@ discord: Discord
 telegram: Telegram
 reddit: Reddit
 twitter: Twitter
-footerText: Gemacht mit `<3` für die ursprüngliche Ethereum Vision
+footerText: Gemacht mit `<3` für die ursprüngliche Ethereum Vision!
